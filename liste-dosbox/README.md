@@ -39,7 +39,7 @@ Note: This patch not intend replace a fully registered version, only allow run i
 
 Steps for apply the patch:
 
- * Download [the archive liste-dosbox.zip](https://github.com/carlos-montiers/consolesoft-mirror/releases/download/20180921/liste-dosbox.zip)
+ * Download [the archive liste-dosbox.zip](https://github.com/carlos-montiers/consolesoft-mirror/releases/download/latest/liste-dosbox.zip)
  * Unzip it
  * `cd` to the newly created directory `liste-dosbox`
  * Run the batch script `liste-dosbox-patch.bat`
